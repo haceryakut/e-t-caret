@@ -1,7 +1,12 @@
-#YAPILACAKLAR
+<h1>E-TİCARET</h1>
 
--statik header olşturmö
+Siparişleri kolayca internet üzeinden vermeyi sağlar.
 
--kullanıcı siteye girince sayfa yüklendikten sonra 
---katagory verileri için istek at 
---Gelen veriyi ekrana bas
+<h2>KULLANILAN TEKNOLOJİLER </h2>
+
+HTML CSS SCCS JS  üzerinden geliştirildi
+
+
+<h2 > Ekran Görüntüsü</h2>
+
+![](e-ticaret.gif)
