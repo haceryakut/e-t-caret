@@ -9,4 +9,4 @@ HTML CSS SCCS JS  üzerinden geliştirildi
 
 <h2 > Ekran Görüntüsü</h2>
 
-![](e-ticaret.gif)
+![](eticaret.gif)
